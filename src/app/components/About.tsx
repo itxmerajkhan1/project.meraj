@@ -164,7 +164,8 @@ export const About = () => {
                       animate={{ rotate: 360 }}
                       transition={{ duration: 20, repeat: Infinity, ease: 'linear' }}
                     >
-                      🚀
+                          <img src="https://instagram.fkhi22-1.fna.fbcdn.net/v/t51.82787-15/543755289_17916840327159781_4227001206674056634_n.webp?_nc_cat=110&ig_cache_key=MzcxNjc0ODk2NDcwNDg1ODkyOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwMTZ4MTM1MC5zZHIuQzMifQ%3D%3D&_nc_ohc=yExbM2LSst8Q7kNvwGNhq0-&_nc_oc=AdoSQuRSGHy7_Ui9gLUTVXbBrCeXx9UyIj73Yt5fNF9k-nMbr57zNe15P31OX5DcyTw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fkhi22-1.fna&_nc_gid=2YKcvE87T-rUWxbj_2fMOA&_nc_ss=7a32e&oh=00_AfxDpy18vBF3BkrbMxq7siJUnqDAad53Dz8wJjS2SJpT1g&oe=69CCB730" alt="">
+
                     </motion.div>
                   </div>
                 </div>
